@@ -1,4 +1,4 @@
-# Stable Diffusion Image Generator
+# Text To Image Generator
 
 A web application that generates high-quality images from text prompts using Stable Diffusion v1.5.
 
